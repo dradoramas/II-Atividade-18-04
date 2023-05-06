@@ -1,4 +1,4 @@
-# Atividade II 18/04
+# II/Atividade - 18/04
 
 Atividade feita no VisualG, Lista de Exercício do dia 18/04/2023. 
 
@@ -40,3 +40,5 @@ c) quantidade de mulheres com salário até R$ 1.000,00.
 Encerre a entrada de dados quando for digitada uma idade negativa.
 
 5. Faça um programa que leia um número informado pelo usuário e mostre na tela os números primos.
+
+//Fim
